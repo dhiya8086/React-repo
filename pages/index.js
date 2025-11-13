@@ -6,7 +6,7 @@ export default function Home() {
 
       <Navbar />
       <h1>HEY IAM DHIYA</h1>
-      <h3>FULL STACK DEVELOPER</h3>
+      <h3>FULL STACK</h3>
       <p>ewrtyuiosdfghjkl;ertyuiopdfghjkl;sdfghjkl;'</p>
       <div className="circle">
 <div className="innercircle">
