@@ -1,0 +1,101 @@
+.contactContainer {
+    max-width: 500px;
+    margin: auto;
+    /* margin-left: 150px;
+    margin-right: 150px; */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2.2rem;
+    color: #222;
+    margin-bottom: 15px;
+  }
+  
+  .subtitle {
+    color: #555;
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+  }
+  
+  .formContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  
+  .form {
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: left;
+  }
+  
+  .form label {
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .form input,
+  .form textarea {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 1rem;
+    transition: border 0.2s ease;
+  }
+  
+  .form input:focus,
+  .form textarea:focus {
+    border-color: #0070f3;
+  }
+  
+  .btn {
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s ease;
+  }
+  
+  .btn:hover {
+    background-color: #0059c9;
+  }
+  
+  .infoSection {
+    text-align: center;
+  }
+  
+  .infoSection h2 {
+    color: #0070f3;
+    margin-bottom: 10px;
+  }
+  
+  .infoSection p {
+    color: #444;
+    margin: 8px 0;
+  }
+  
+  .socialLinks {
+    margin-top: 15px;
+  }
+  
+  .socialLinks a {
+    color: #0070f3;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+  
+  .socialLinks a:hover {
+    color: #0055b3;
+  }
+  

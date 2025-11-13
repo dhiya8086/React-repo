@@ -1,0 +1,45 @@
+.aboutContainer {
+    max-width: 1400px;
+    margin: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+    line-height: 1.7;
+    /* background: #fafafa;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); */
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2.2rem;
+    color: #222;
+    margin-bottom: 20px;
+  }
+  
+  .intro {
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 30px;
+  }
+  
+  .name {
+    font-weight: bold;
+    color: orangered;
+  }
+  
+  .section {
+    margin-bottom: 25px;
+  }
+  
+  .heading {
+    font-size: 1.3rem;
+    color: orangered;
+    margin-bottom: 10px;
+  }
+  
+  .text {
+    color: #555;
+    font-size: 1rem;
+  }
+  
